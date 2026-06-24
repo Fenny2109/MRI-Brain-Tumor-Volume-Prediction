@@ -1,16 +1,13 @@
-# MRI-Brain-Tumor-Volume-Prediction
-
-# Predicting Brain Tumor Volume Using MRI-Derived Features and Machine Learning
-
+# Predicting Age from MRI-Derived Brain Measurements and Clinical Characteristics Using Machine Learning
 ## Team Members
 
 - Fenny Bharucha
 - Nhan Nguyen
-- Khoi Nhan
+- Khoi Phan
 
 ## Dataset
 
-OpenNeuro ds005003 MRI Dataset
+OASIS-1
 
 ## Project Goals
 
@@ -36,9 +33,9 @@ Completed:
 - Correlation Analysis
 - VIF Analysis
 - LASSO Feature Selection
+- PCA
+- Ensemble Learning
 
 Remaining:
-- Regression Models
 - Ensemble Learning
-- PCA
 - Clustering
