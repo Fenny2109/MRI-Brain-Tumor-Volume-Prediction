@@ -36,6 +36,12 @@ Completed:
 - PCA
 - Ensemble Learning
 
-Remaining:
-- Ensemble Learning
-- Clustering
+## Recent Updates (06/24/2026)
+
+* Added Elastic Net Regression
+* Added 5-Fold Cross Validation
+* Added K-Means Clustering with Elbow Method and PCA Visualization
+* Added Classification Analysis using Logistic Regression and Random Forest
+* Updated model imports and validation procedures
+* Verified notebook coverage against Data Mining project requirements
+
